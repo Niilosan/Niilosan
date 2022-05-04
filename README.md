@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niilosan
 - 👀 I’m interested in coding/developping
-- 🌱 I’m currently learning php/js
+- 🌱 I’m currently learning php/html
 - 📫 How to reach me @Niilosan on twitter
 
 <!---
